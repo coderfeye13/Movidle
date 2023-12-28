@@ -15,7 +15,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        //eğer fxml de scene builderdan bişeler yaparsak onu çağırma kodu 🙂
+        //eğer fxml de scene builderdan bişeler yaparsak onu çağırma kodu
         //FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("home-view.fxml"));
 
         DataAccess dataAccess = new DataAccess();
