@@ -1,7 +1,8 @@
 repo_name: coderfeye13/Movidle
 report_id: 0e12279e46edab0e8d4979c315f24107
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:40:59+00:00'
+timestamp: '2024-01-05T08:57:05+00:00'
 requested_by: coderfeye13
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/coderfeye13/Movidle
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/coderfeye13/Movidle
   detection_source: Repo Metadata
 - name: JUnit
   description: A programmer-oriented testing framework for Java
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/coderfeye13/Movidle/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Furkan
   last_updated_on: 2023-06-24 09:32:32.000000000 Z
