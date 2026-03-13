@@ -1,10 +1,10 @@
 # Movidle
 
-Movidle is a Java-based word game project inspired by the **Spelling Bee** concept and designed around discovering movies from the **IMDb Top Movies** universe.
+Movidle is a Java-based word puzzle game inspired by the **Spelling Bee** concept and designed around discovering movies from the **IMDb Top Movies** universe.
 
 The project was developed as a **team assignment** during my **Bachelor's degree in Computer Engineering at Erciyes University**.
 
-Although this project is not directly related to my current focus areas, I keep it in my portfolio because it reflects solid work in **object-oriented design, modular project structure, and team-based software development**.
+Although this project is not directly related to my current focus areas, I keep it in my portfolio because it reflects solid work in **object-oriented design, GUI development, and team-based software development**.
 
 ---
 
@@ -14,34 +14,38 @@ The game was inspired by word puzzle formats such as **Spelling Bee** and adapte
 
 Players interact with a word-based game structure connected to movie-related concepts, with the goal of identifying or working with titles from well-known IMDb films.
 
+The application includes a **graphical user interface built using JavaFX**, allowing players to interact with the game through a desktop interface.
+
 ---
 
 ## Features
 
-- Java-based game implementation
-- Modular package structure
-- Object-oriented design
+- Java-based word puzzle game
+- Graphical user interface built with **JavaFX**
+- Modular project architecture
+- Object-oriented design (OOP)
 - Custom exception handling
-- Asset-based project organization
-- Team project development experience
+- Asset-based resource management
+- Team-based software development
 
 ---
 
 ## Project Structure
 
-The project is organized into multiple packages:
+The project follows a modular package structure:
 
-- **Model** – core entities and data structures
-- **Controller** – application logic
-- **Helpers** – utility methods and helper classes
-- **Exceptions** – custom exceptions
-- **Assets** – project resources
+- **Model** – core entities and data structures  
+- **Controller** – game logic and flow  
+- **Helpers** – utility classes  
+- **Exceptions** – custom exception handling  
+- **Assets** – game resources  
 
 ---
 
 ## Technologies Used
 
 - Java
+- JavaFX
 - Maven
 - Object-Oriented Programming (OOP)
 
@@ -51,7 +55,7 @@ The project is organized into multiple packages:
 
 This project was developed during my **Bachelor's degree in Computer Engineering at Erciyes University** as a **group project**.
 
-It represents an early software project where I worked on structuring a multi-file Java application and collaborating in a team environment.
+It represents an early software engineering project where I worked on structuring a multi-file Java application and collaborating in a team environment.
 
 ---
 
@@ -60,3 +64,5 @@ It represents an early software project where I worked on structuring a multi-fi
 **Furkan Yilmaz**
 
 Developed during my **Bachelor's degree in Computer Engineering at Erciyes University**.
+
+Currently pursuing an **M.Sc. in Computer Science at HAW Kiel University of Applied Sciences (Germany)**.
